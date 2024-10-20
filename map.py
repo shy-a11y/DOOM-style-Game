@@ -5,7 +5,7 @@ import pygame as pg
 맵수정팁! written by 한승우 1020
 _:빈공간
 minin_map에 있는 1,2,3,4,5라는 넘버링이 resources/textures아래의 1.png, 2.png, 3.png, 4.png, 5.png와 대응합니다.
-
+object_renderer.py에 1,2,3,4,5에 해당하는 sprite가 연결되어있습니다
 """
 _ = False
 mini_map = [
